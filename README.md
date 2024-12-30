@@ -1,5 +1,3 @@
-# IMU-Sales-prediction
-
 # Sales Analysis of 'The Vault'
 
 ## Project Overview
