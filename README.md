@@ -16,8 +16,8 @@ This project focuses on analyzing sales data from **Indiana Memorial Union's (IM
    - The **`DM_project_test`** file includes:
      - Similar preprocessing steps applied to October's sales data as those used for September's data.
      - Splitting the preprocessed data into:
-       - `X_test`: Scaled test features.
-       - `Y_true`: True sales values (`y_total_merchant_sales.csv`).
+       - Scaled test features (`X_scaled.csv`).
+       - True sales values (`y_total_merchant_sales.csv`).
 
 3. **Model Evaluation**:
    - The results of the model were evaluated using the predictions on **October's test data**.
